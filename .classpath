@@ -13,5 +13,6 @@
 	<classpathentry kind="lib" path="I:/commons-lang3-3.8.1-bin/commons-lang3-3.8.1/commons-lang3-3.8.1-test-sources.jar"/>
 	<classpathentry kind="lib" path="I:/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2.jar"/>
 	<classpathentry kind="lib" path="I:/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="I:/postgresql-42.2.5.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
