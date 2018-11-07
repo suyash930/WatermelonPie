@@ -9,4 +9,6 @@ package sql;
 
 public class SqlQueries {
 	
+	private final static String CREATE_TEACHER_TABLE = "CREATE TABLE teacher ();";
+	
 }

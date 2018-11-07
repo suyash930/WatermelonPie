@@ -19,7 +19,7 @@ public class TestConnection {
 		
 		try {
 			connection = DriverManager.getConnection(url, user, password);
-			System.out.println("Connection succesfull!");
+			System.out.println("Connection successful!");
 		} catch (SQLException e) {
 			System.err.println("Connection failed "+ e);
 			e.printStackTrace();
